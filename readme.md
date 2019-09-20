@@ -1,5 +1,7 @@
 # Single Column Website
 
+![](https://media.giphy.com/media/1xooC2wGklzS3jTdgT/source.gif)
+
 
 Your goal is to recreate the website below, replacing the personal specifics with your own images. 
 
