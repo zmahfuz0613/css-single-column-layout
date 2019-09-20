@@ -1,6 +1,5 @@
 # Single Column Website
 
-<iframe src="https://giphy.com/embed/1xooC2wGklzS3jTdgT" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/agt-nbc-episode-14-1xooC2wGklzS3jTdgT">via GIPHY</a></p>
 
 Your goal is to recreate the website below, replacing the personal specifics with your own images. 
 
