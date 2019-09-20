@@ -3,6 +3,7 @@
 Your goal is to recreate the website below, replacing the personal specifics with your own images. 
 
 ## Requirements
+- Fork and clone this repository. 
 - Your page should have at least 6 semantic `div` sections, including a `<header>` and a `<footer>`. 
 - The header must contain links to those sections. 
 >Note: You'll need to figure out how to link to `id` names for this functionality to work.
