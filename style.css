@@ -1,0 +1,111 @@
+
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+
+
+/* Slideshow container */
+.centered {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+.text{
+  text-align: center;
+  color: lightsalmon;
+  font-family: 'Satisfy', cursive;    
+}
+
+/* Carousel Item */
+
+.carousel-item{
+  
+  background-size: cover;
+}
+.bs-example{
+  background-size: cover;
+
+}
+h1{
+  font-family: "Montserrat-Bold";
+}
+/* DROPDOWN MENU */
+ul{
+  padding: 0;
+  list-style: none;
+  background: #f2f2f2;
+}
+ul li{
+  display: inline-block;
+  position: relative;
+  line-height: 21px;
+  text-align: left;
+}
+ul li a{
+  display: block;
+  padding: 8px 25px;
+  color: #333;
+  text-decoration: none;
+}
+ul li a:hover{
+  color: #fff;
+  background: #939393;
+}
+ul li ul.dropdown{
+  min-width: 100%; /* Set width of the dropdown */
+  background: #f2f2f2;
+  display: none;
+  position: absolute;
+  z-index: 999;
+  left: 0;
+}
+ul li:hover ul.dropdown{
+  display: block;	/* Display the dropdown */
+}
+ul li ul.dropdown li{
+  display: block;
+}
+
+
+/* Features Section */
+
+#features {
+  position: relative;
+  padding: 7% 15%;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 5%;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Montserrat-Bold', sans-serif;
+}
+.icon {
+  color: #e63c08;
+  margin-bottom: 1rem;
+}
+.icon:hover {
+ color: #ff4c68;
+}
+
+
+
+/* FOOTER */
+
+footer {
+  background-color: #E3756D;
+  text-align: center;
+}
+/* Jumbotron */
+.card-body1 {
+  background-color: lightblue;
+}
